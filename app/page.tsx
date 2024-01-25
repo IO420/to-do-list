@@ -9,7 +9,9 @@ export default function Home() {
     <Layout>
       <div className="container d-flex flex-column align-items-center">
         <h1 className="my-5">To Do List</h1>
+        <h1 className="my-5">hola que tal</h1>
         <ContenedorLista/>
+
       </div>
     </Layout>
   );
