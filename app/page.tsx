@@ -10,6 +10,7 @@ export default function Home() {
       <div className="container d-flex flex-column align-items-center">
         <h1 className="my-5">To Do List</h1>
         <h1 className="my-5">hola que tal</h1>
+        <h1>Cambio de mike</h1>
         <ContenedorLista/>
 
       </div>
